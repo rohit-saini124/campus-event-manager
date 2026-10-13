@@ -3,3 +3,5 @@ College Event Manager — Organizers
 COSA (Council of Student Affairs): Will handle the complete MERAZ fest.
 
 EBSB (Ek Bharat Shreshtha Bharat): Will handle participation in Garba Night.
+SPECTRE : Will manage hacking competetions in MERAZ
+Beathackers : will help students for dance practices
